@@ -18,6 +18,7 @@
 		26D392062AFC092B003D114C /* FlappyBirdSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26D392052AFC092B003D114C /* FlappyBirdSwiftTests.swift */; };
 		26D392102AFC092B003D114C /* FlappyBirdSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26D3920F2AFC092B003D114C /* FlappyBirdSwiftUITests.swift */; };
 		26D392122AFC092B003D114C /* FlappyBirdSwiftUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26D392112AFC092B003D114C /* FlappyBirdSwiftUITestsLaunchTests.swift */; };
+		26D3921F2AFC0D68003D114C /* images in Resources */ = {isa = PBXBuildFile; fileRef = 26D3921E2AFC0D68003D114C /* images */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,8 @@
 		26D3920B2AFC092B003D114C /* FlappyBirdSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlappyBirdSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		26D3920F2AFC092B003D114C /* FlappyBirdSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlappyBirdSwiftUITests.swift; sourceTree = "<group>"; };
 		26D392112AFC092B003D114C /* FlappyBirdSwiftUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlappyBirdSwiftUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		26D3921E2AFC0D68003D114C /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; name = images; path = ../../../../images; sourceTree = "<group>"; };
+		26D392222AFC2328003D114C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				26D391F52AFC0929003D114C /* Main.storyboard */,
 				26D391F82AFC092B003D114C /* Assets.xcassets */,
 				26D391FA2AFC092B003D114C /* LaunchScreen.storyboard */,
+				26D3921E2AFC0D68003D114C /* images */,
+				26D392222AFC2328003D114C /* README.md */,
 			);
 			path = FlappyBirdSwift;
 			sourceTree = "<group>";
@@ -235,6 +240,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				26D3921F2AFC0D68003D114C /* images in Resources */,
 				26D391F72AFC0929003D114C /* Main.storyboard in Resources */,
 				26D391EE2AFC0929003D114C /* GameScene.sks in Resources */,
 				26D391F92AFC092B003D114C /* Assets.xcassets in Resources */,
