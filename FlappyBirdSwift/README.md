@@ -6,7 +6,7 @@ After creating a Flappy Bird app in Visual Studio Code using Python (see last vi
 
 Here is a link to your YouTube demonstration:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/x6iWFA3Rj0s)
 
 # Development Environment
 
